@@ -1,2 +1,1 @@
 # lc-submission
-# lc-submission
